@@ -1,0 +1,104 @@
+{
+    "schedule-verses": [
+        {
+            "surah_verse": [
+                {
+                    "verse_num": 2,
+                    "verse": "مِن شَرِّ مَا خَلَقَ",
+                    "surah_num": 113,
+                    "surah_name": "سُورَةُ الفَلَقِ",
+                    "parah_num": 30
+                },
+                {
+                    "verse_num": 2,
+                    "verse": "ٱللَّهُ ٱلصَّمَدُ",
+                    "surah_num": 112,
+                    "surah_name": "سُورَةُ الإِخۡلَاصِ",
+                    "parah_num": 30
+                }
+            ],
+            "status_id": "un-read",
+            "prayer_time": "11:49:00",
+            "prayer_name": "Dhuhr",
+            "prayer_day": "Thursday",
+            "prayer_date": "2020-10-15",
+            "last_name": "Khalid",
+            "id": 16,
+            "first_name": "Awais",
+            "email": "awaiskhalid531@gmail.com",
+            "customer_id": 3,
+            "active_button": true
+        },
+        {
+            "surah_verse": [
+                {
+                    "verse_num": 4,
+                    "verse": "مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ",
+                    "translation": "(شیطان) وسوسہ انداز کی برائی سے جو (خدا کا نام سن کر) پیچھے ہٹ جاتا ہے",
+                    "surah_num": 114,
+                    "surah_name": "سُورَةُ النَّاسِ",
+                    "parah_num": 30
+                },
+                {
+                    "verse_num": 3,
+                    "verse": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+                    "translation": "اور شب تاریکی کی برائی سے جب اس کااندھیرا چھا جائے",
+                    "surah_num": 113,
+                    "surah_name": "سُورَةُ الفَلَقِ",
+                    "parah_num": 30
+                },
+                {
+                    "verse_num": 3,
+                    "verse": "لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ",
+                    "translation": "نہ کسی کا باپ ہے اور نہ کسی کا بیٹا",
+                    "surah_num": 112,
+                    "surah_name": "سُورَةُ الإِخۡلَاصِ",
+                    "parah_num": 30
+                }
+            ],
+            "status_id": "un-read",
+            "prayer_time": "15:52:00",
+            "prayer_name": "Asr",
+            "prayer_day": "Thursday",
+            "prayer_date": "2020-10-15",
+            "last_name": "",
+            "id": 17,
+            "first_name": "Touseef",
+            "email": "touseef@gmail.com",
+            "customer_id": 4,
+            "active_button": false
+        },
+        {
+            "surah_verse": [
+                {
+                    "verse_num": 4,
+                    "verse": "وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِي ٱلۡعُقَدِ",
+                    "translation": "اور گنڈوں پر (پڑھ پڑھ کر) پھونکنے والیوں کی برائی سے",
+                    "surah_num": 113,
+                    "surah_name": "سُورَةُ الفَلَقِ",
+                    "parah_num": 30
+                },
+                {
+                    "verse_num": 4,
+                    "verse": "وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ",
+                    "translation": "اور کوئی اس کا ہمسر نہیں",
+                    "surah_num": 112,
+                    "surah_name": "سُورَةُ الإِخۡلَاصِ",
+                    "parah_num": 30
+                }
+            ],
+            "status_id": "un-read",
+            "prayer_time": "17:31:00",
+            "prayer_name": "Maghrib",
+            "prayer_day": "Thursday",
+            "prayer_date": "2020-10-15",
+            "last_name": "",
+            "id": 18,
+            "first_name": "Shahzad",
+            "email": "shexiakram@gmail.com",
+            "customer_id": 5,
+            "active_button": false
+        }
+    ],
+    "meta": null
+}

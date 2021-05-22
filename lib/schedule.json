@@ -1,0 +1,191 @@
+{
+    "schedule-verses": [
+        {
+            "surah_verse": [
+                {
+                    "verse": {
+                        "verse_without": "قل اعوذ برب الناس",
+                        "verse": "قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+                        "username": null,
+                        "user_id": null,
+                        "surah_verse_num": 1,
+                        "surah_name_without": "سورة الناس",
+                        "surah_name": "سُورَةُ النَّاسِ",
+                        "surah_id": 114,
+                        "surah": {
+                            "__owner__": "Elixir.Core.V1.VerseModel",
+                            "__field__": "surah",
+                            "__cardinality__": "one"
+                        },
+                        "ruku": 604,
+                        "parah_num": 30,
+                        "id": 6455,
+                        "app_name": null,
+                        "__meta__": {
+                            "state": "loaded",
+                            "source": "verses",
+                            "schema": "Elixir.Core.V1.VerseModel",
+                            "prefix": null,
+                            "context": null
+                        }
+                    },
+                    "translation": {
+                        "verse_translation": "کہو کہ میں لوگوں کے پروردگار کی پناہ مانگتا ہوں",
+                        "username": null,
+                        "user_id": null,
+                        "surah_verse_num": 1,
+                        "surah_id": 114,
+                        "surah": {
+                            "__owner__": "Elixir.Core.V1.UrduTranslationVerseModel",
+                            "__field__": "surah",
+                            "__cardinality__": "one"
+                        },
+                        "id": 6227,
+                        "app_name": null,
+                        "__meta__": {
+                            "state": "loaded",
+                            "source": "urdu_translation_verses",
+                            "schema": "Elixir.Core.V1.UrduTranslationVerseModel",
+                            "prefix": null,
+                            "context": null
+                        }
+                    }
+                }
+            ],
+            "status_id": "read",
+            "prayer_time": "11:52:00",
+            "prayer_name": "Dhuhr",
+            "prayer_day": "Monday",
+            "prayer_date": "2020-10-05",
+            "last_name": "ur Rahman",
+            "id": 1,
+            "first_name": "Hammad",
+            "email": "hammadciit@gmail.com"
+        },
+        {
+            "surah_verse": [
+                {
+                    "verse": {
+                        "verse_without": "ملك الناس",
+                        "verse": "مَلِكِ ٱلنَّاسِ",
+                        "username": null,
+                        "user_id": null,
+                        "surah_verse_num": 2,
+                        "surah_name_without": "سورة الناس",
+                        "surah_name": "سُورَةُ النَّاسِ",
+                        "surah_id": 114,
+                        "surah": {
+                            "__owner__": "Elixir.Core.V1.VerseModel",
+                            "__field__": "surah",
+                            "__cardinality__": "one"
+                        },
+                        "ruku": 604,
+                        "parah_num": 30,
+                        "id": 6456,
+                        "app_name": null,
+                        "__meta__": {
+                            "state": "loaded",
+                            "source": "verses",
+                            "schema": "Elixir.Core.V1.VerseModel",
+                            "prefix": null,
+                            "context": null
+                        }
+                    },
+                    "translation": {
+                        "verse_translation": "(یعنی) لوگوں کے حقیقی بادشاہ کی",
+                        "username": null,
+                        "user_id": null,
+                        "surah_verse_num": 2,
+                        "surah_id": 114,
+                        "surah": {
+                            "__owner__": "Elixir.Core.V1.UrduTranslationVerseModel",
+                            "__field__": "surah",
+                            "__cardinality__": "one"
+                        },
+                        "id": 6228,
+                        "app_name": null,
+                        "__meta__": {
+                            "state": "loaded",
+                            "source": "urdu_translation_verses",
+                            "schema": "Elixir.Core.V1.UrduTranslationVerseModel",
+                            "prefix": null,
+                            "context": null
+                        }
+                    }
+                }
+            ],
+            "status_id": "read",
+            "prayer_time": "16:04:00",
+            "prayer_name": "Asr",
+            "prayer_day": "Monday",
+            "prayer_date": "2020-10-05",
+            "last_name": "ur Rahman",
+            "id": 2,
+            "first_name": "Wasi",
+            "email": "wasi@gmail.com"
+        },
+        {
+            "surah_verse": [
+                {
+                    "verse": {
+                        "verse_without": "الٰه الناس",
+                        "verse": "إِلَٰهِ ٱلنَّاسِ",
+                        "username": null,
+                        "user_id": null,
+                        "surah_verse_num": 3,
+                        "surah_name_without": "سورة الناس",
+                        "surah_name": "سُورَةُ النَّاسِ",
+                        "surah_id": 114,
+                        "surah": {
+                            "__owner__": "Elixir.Core.V1.VerseModel",
+                            "__field__": "surah",
+                            "__cardinality__": "one"
+                        },
+                        "ruku": 604,
+                        "parah_num": 30,
+                        "id": 6457,
+                        "app_name": null,
+                        "__meta__": {
+                            "state": "loaded",
+                            "source": "verses",
+                            "schema": "Elixir.Core.V1.VerseModel",
+                            "prefix": null,
+                            "context": null
+                        }
+                    },
+                    "translation": {
+                        "verse_translation": "لوگوں کے معبود برحق کی",
+                        "username": null,
+                        "user_id": null,
+                        "surah_verse_num": 3,
+                        "surah_id": 114,
+                        "surah": {
+                            "__owner__": "Elixir.Core.V1.UrduTranslationVerseModel",
+                            "__field__": "surah",
+                            "__cardinality__": "one"
+                        },
+                        "id": 6229,
+                        "app_name": null,
+                        "__meta__": {
+                            "state": "loaded",
+                            "source": "urdu_translation_verses",
+                            "schema": "Elixir.Core.V1.UrduTranslationVerseModel",
+                            "prefix": null,
+                            "context": null
+                        }
+                    }
+                }
+            ],
+            "status_id": "read",
+            "prayer_time": "17:44:00",
+            "prayer_name": "Maghrib",
+            "prayer_day": "Monday",
+            "prayer_date": "2020-10-05",
+            "last_name": "Khalid",
+            "id": 3,
+            "first_name": "Awais",
+            "email": "awaiskhalid531@gmail.com"
+        }
+    ],
+    "meta": null
+}

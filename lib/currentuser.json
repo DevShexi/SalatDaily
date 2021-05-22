@@ -1,0 +1,67 @@
+{
+    "schedule-verse": {
+        "surah_verse": [
+            {
+
+                "verse": {
+                    "verse_without": "ومن شر حاسد اذا حسد",
+                    "verse": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+                    "username": null,
+                    "user_id": null,
+                    "surah_verse_num": 5,
+                    "surah_name_without": "سورة الفلق",
+                    "surah_name": "سُورَةُ الفَلَقِ",
+                    "surah_id": 113,
+                    "surah": {
+                        "__owner__": "Elixir.Core.V1.VerseModel",
+                        "__field__": "surah",
+                        "__cardinality__": "one"
+                    },
+                    "ruku": 604,
+                    "parah_num": 30,
+                    "id": 6452,
+                    "app_name": null,
+                    "__meta__": {
+                        "state": "loaded",
+                        "source": "verses",
+                        "schema": "Elixir.Core.V1.VerseModel",
+                        "prefix": null,
+                        "context": null
+                    }
+                },
+
+
+                "translation": {
+                    "verse_translation": "اور حسد کرنے والے کی برائی سے جب حسد کرنے لگے",
+                    "username": null,
+                    "user_id": null,
+                    "surah_verse_num": 5,
+                    "surah_id": 113,
+                    "surah": {
+                        "__owner__": "Elixir.Core.V1.UrduTranslationVerseModel",
+                        "__field__": "surah",
+                        "__cardinality__": "one"
+                    },
+                    "id": 6226,
+                    "app_name": null,
+                    "__meta__": {
+                        "state": "loaded",
+                        "source": "urdu_translation_verses",
+                        "schema": "Elixir.Core.V1.UrduTranslationVerseModel",
+                        "prefix": null,
+                        "context": null
+                    }
+                }
+            }
+        ],
+
+        "status_id": "un-read",
+        "prayer_time": "16:04:00",
+        "prayer_name": "Asr",
+        "prayer_date": "2020-10-08",
+        "last_name": "ur Rahman",
+        "id": 11,
+        "first_name": "Hammad",
+        "email": "hammadciit@gmail.com"
+    }
+}

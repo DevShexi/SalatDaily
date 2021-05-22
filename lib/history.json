@@ -1,0 +1,231 @@
+{
+    "schedule-verse": {
+        "skip_count": 1,
+        "skip": [
+            {
+                "username": null,
+                "user_id": null,
+                "updated_at": "2020-10-15T05:58:19.000000+00:00",
+                "surah_verse": [
+                    {
+                        "verse_num": 4,
+                        "verse": "وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِي ٱلۡعُقَدِ",
+                        "translation": "اور گنڈوں پر (پڑھ پڑھ کر) پھونکنے والیوں کی برائی سے",
+                        "surah_num": 113,
+                        "surah_name": "سُورَةُ الفَلَقِ",
+                        "parah_num": 30
+                    }
+                ],
+                "status_id": "skip",
+                "status": {
+                    "__owner__": "Elixir.Core.V1.ScheduleVerseModel",
+                    "__field__": "status",
+                    "__cardinality__": "one"
+                },
+                "prayer_time": "11:49:00",
+                "prayer_name": "Dhuhr",
+                "prayer_day": "Wednesday",
+                "prayer_date": "2020-10-14",
+                "inserted_at": "2020-10-12T12:12:31.000000+00:00",
+                "id": 10,
+                "customer_id": 5,
+                "customer": {
+                    "__owner__": "Elixir.Core.V1.ScheduleVerseModel",
+                    "__field__": "customer",
+                    "__cardinality__": "one"
+                },
+                "app_name": null,
+                "active_button": false,
+                "__meta__": {
+                    "state": "loaded",
+                    "source": "schedule_verses",
+                    "schema": "Elixir.Core.V1.ScheduleVerseModel",
+                    "prefix": null,
+                    "context": null
+                }
+            }
+        ],
+        "read_count": 5,
+        "read": [
+            {
+                "username": null,
+                "user_id": null,
+                "updated_at": "2020-10-15T13:43:12.000000+00:00",
+                "surah_verse": [
+                    {
+                        "verse_num": 5,
+                        "verse": "فِي جِيدِهَا حَبۡلٞ مِّن مَّسَدِۭ",
+                        "translation": "اس کے گلے میں مونج کی رسّی ہو گی",
+                        "surah_num": 111,
+                        "surah_name": "سُورَةُ المَسَدِ",
+                        "parah_num": 30
+                    }
+                ],
+                "status_id": "read",
+                "status": {
+                    "__owner__": "Elixir.Core.V1.ScheduleVerseModel",
+                    "__field__": "status",
+                    "__cardinality__": "one"
+                },
+                "prayer_time": "15:52:00",
+                "prayer_name": "Asr",
+                "prayer_day": "Saturday",
+                "prayer_date": "2020-10-17",
+                "inserted_at": "2020-10-15T13:43:04.000000+00:00",
+                "id": 23,
+                "customer_id": 5,
+                "customer": {
+                    "__owner__": "Elixir.Core.V1.ScheduleVerseModel",
+                    "__field__": "customer",
+                    "__cardinality__": "one"
+                },
+                "app_name": null,
+                "active_button": false,
+                "__meta__": {
+                    "state": "loaded",
+                    "source": "schedule_verses",
+                    "schema": "Elixir.Core.V1.ScheduleVerseModel",
+                    "prefix": null,
+                    "context": null
+                }
+            },
+            {
+                "username": null,
+                "user_id": null,
+                "updated_at": "2020-10-12T12:12:30.000000+00:00",
+                "surah_verse": [
+                    {
+                        "verse_num": 5,
+                        "verse": "ٱلَّذِي يُوَسۡوِسُ فِي صُدُورِ ٱلنَّاسِ",
+                        "translation": "جو لوگوں کے دلوں میں وسوسے ڈالتا ہے",
+                        "surah_num": 114,
+                        "surah_name": "سُورَةُ النَّاسِ",
+                        "parah_num": 30
+                    }
+                ],
+                "status_id": "read",
+                "status": {
+                    "__owner__": "Elixir.Core.V1.ScheduleVerseModel",
+                    "__field__": "status",
+                    "__cardinality__": "one"
+                },
+                "prayer_time": "16:04:00",
+                "prayer_name": "Asr",
+                "prayer_day": "Monday",
+                "prayer_date": "2020-10-12",
+                "inserted_at": "2020-10-08T14:19:31.000000+00:00",
+                "id": 5,
+                "customer_id": 5,
+                "customer": {
+                    "__owner__": "Elixir.Core.V1.ScheduleVerseModel",
+                    "__field__": "customer",
+                    "__cardinality__": "one"
+                },
+                "app_name": null,
+                "active_button": false,
+                "__meta__": {
+                    "state": "loaded",
+                    "source": "schedule_verses",
+                    "schema": "Elixir.Core.V1.ScheduleVerseModel",
+                    "prefix": null,
+                    "context": null
+                }
+            },
+            {
+                "username": null,
+                "user_id": null,
+                "updated_at": "2020-10-15T13:43:13.000000+00:00",
+                "surah_verse": [
+                    {
+                        "verse_num": 1,
+                        "verse": "إِذَا جَآءَ نَصۡرُ ٱللَّهِ وَٱلۡفَتۡحُ",
+                        "translation": "جب خدا کی مدد آ پہنچی اور فتح (حاصل ہو گئی)",
+                        "surah_num": 110,
+                        "surah_name": "سُورَةُ النَّصۡرِ",
+                        "parah_num": 30
+                    }
+                ],
+                "status_id": "read",
+                "status": {
+                    "__owner__": "Elixir.Core.V1.ScheduleVerseModel",
+                    "__field__": "status",
+                    "__cardinality__": "one"
+                },
+                "prayer_time": "17:31:00",
+                "prayer_name": "Maghrib",
+                "prayer_day": "Saturday",
+                "prayer_date": "2020-10-17",
+                "inserted_at": "2020-10-15T13:43:13.000000+00:00",
+                "id": 24,
+                "customer_id": 5,
+                "customer": {
+                    "__owner__": "Elixir.Core.V1.ScheduleVerseModel",
+                    "__field__": "customer",
+                    "__cardinality__": "one"
+                },
+                "app_name": 
+null,
+                "active_button": false,
+                "__meta__": {
+                    "state": "loaded",
+                    "source": "schedule_verses",
+                    "schema": "Elixir.Core.V1.ScheduleVerseModel",
+                    "prefix": null,
+                    "context": null
+                }
+            },
+            {
+                "username": null,
+                "user_id": null,
+                "updated_at": "2020-10-15T13:43:03.000000+00:00",
+                "surah_verse": [
+                    {
+                        "verse_num": 4,
+                        "verse": "وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِي ٱلۡعُقَدِ",
+                        "translation": "اور گنڈوں پر (پڑھ پڑھ کر) پھونکنے والیوں کی برائی سے",
+                        "surah_num": 113,
+                        "surah_name": "سُورَةُ الفَلَقِ",
+                        "parah_num": 30
+                    },
+                    {
+                        "verse_num": 4,
+                        "verse": "وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ",
+                        "translation": "اور کوئی اس کا ہمسر نہیں",
+                        "surah_num": 112,
+                        "surah_name": "سُورَةُ الإِخۡلَاصِ",
+                        "parah_num": 30
+                    }
+                ],
+                "status_id": "read",
+                "status": {
+                    "__owner__": "Elixir.Core.V1.ScheduleVerseModel",
+                    "__field__": "status",
+                    "__cardinality__": "one"
+                },
+                "prayer_time": "17:31:00",
+                "prayer_name": "Maghrib",
+                "prayer_day": "Thursday",
+                "prayer_date": "2020-10-15",
+                "inserted_at": "2020-10-15T05:58:23.000000+00:00",
+                "id": 18,
+                "customer_id": 5,
+                "customer": {
+                    "__owner__": "Elixir.Core.V1.ScheduleVerseModel",
+                    "__field__": "customer",
+                    "__cardinality__": "one"
+                },
+                "app_name": null,
+                "active_button": false,
+                "__meta__": {
+                    "state": "loaded",
+                    "source": "schedule_verses",
+                    "schema": "Elixir.Core.V1.ScheduleVerseModel",
+                    "prefix": null,
+                    "context": null
+                }
+            }
+        ],
+        "absent_count": 0,
+        "absent": []
+    }
+}

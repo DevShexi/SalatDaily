@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "75726038530",
+    "firebase_url": "https://learn-quran-3c228.firebaseio.com",
+    "project_id": "learn-quran-3c228",
+    "storage_bucket": "learn-quran-3c228.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75726038530:android:72eb07855f57286bfd291b",
+        "android_client_info": {
+          "package_name": "com.example.learn_quran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75726038530-m1jb6e09tok2ov36rahk18amcuj6pu8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB4kOS71mDXMQZboo_7K8jjLToZ6WRLyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75726038530-m1jb6e09tok2ov36rahk18amcuj6pu8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
